@@ -1,6 +1,6 @@
 echo "deploying"
 
-cp -R /Users/jackkenlay/personal/ruqsana-begum-react/build/* /Users/jackkenlay/personal/ruqsana-begum-react-dist/
+cp -R '/Users/jackkenlay/personal/ruqsana-begum-react/build/*' '/Users/jackkenlay/personal/ruqsana-begum-react-dist/'
 
 git --git-dir="/Users/jackkenlay/personal/ruqsana-begum-react-dist/.git" status
 
