@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ruqsana-begum-react/static/css/main.680a66fb.chunk.css",
+    "main.js": "/ruqsana-begum-react/static/js/main.0a71f326.chunk.js",
+    "main.js.map": "/ruqsana-begum-react/static/js/main.0a71f326.chunk.js.map",
+    "runtime-main.js": "/ruqsana-begum-react/static/js/runtime-main.aaf40c9f.js",
+    "runtime-main.js.map": "/ruqsana-begum-react/static/js/runtime-main.aaf40c9f.js.map",
+    "static/js/2.07bfa293.chunk.js": "/ruqsana-begum-react/static/js/2.07bfa293.chunk.js",
+    "static/js/2.07bfa293.chunk.js.map": "/ruqsana-begum-react/static/js/2.07bfa293.chunk.js.map",
+    "index.html": "/ruqsana-begum-react/index.html",
+    "precache-manifest.0eedde12ca0d7c7f38d307989f70067a.js": "/ruqsana-begum-react/precache-manifest.0eedde12ca0d7c7f38d307989f70067a.js",
+    "service-worker.js": "/ruqsana-begum-react/service-worker.js",
+    "static/css/main.680a66fb.chunk.css.map": "/ruqsana-begum-react/static/css/main.680a66fb.chunk.css.map",
+    "static/js/2.07bfa293.chunk.js.LICENSE.txt": "/ruqsana-begum-react/static/js/2.07bfa293.chunk.js.LICENSE.txt",
+    "static/media/IMG_4670.JPG": "/ruqsana-begum-react/static/media/IMG_4670.5695afe2.JPG",
+    "static/media/IMG_6070.JPG": "/ruqsana-begum-react/static/media/IMG_6070.bda7875c.JPG",
+    "static/media/IMG_8763-2.jpg": "/ruqsana-begum-react/static/media/IMG_8763-2.31a4e38e.jpg",
+    "static/media/IMG_8937.JPG": "/ruqsana-begum-react/static/media/IMG_8937.b59ab5cd.JPG",
+    "static/media/classes.jpg": "/ruqsana-begum-react/static/media/classes.e60e4a72.jpg",
+    "static/media/socialmedialinks.scss": "/ruqsana-begum-react/static/media/twitter-logo.fce40e3a.png",
+    "static/media/reading-elle-magazine-photo.png": "/ruqsana-begum-react/static/media/reading-elle-magazine-photo.8b341506.png",
+    "static/media/roxy-background-bio-image.jpg": "/ruqsana-begum-react/static/media/roxy-background-bio-image.3d477bdc.jpg",
+    "static/media/ruqsana-begum-kick-boxer.jpg": "/ruqsana-begum-react/static/media/ruqsana-begum-kick-boxer.c59a9f50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf40c9f.js",
+    "static/js/2.07bfa293.chunk.js",
+    "static/css/main.680a66fb.chunk.css",
+    "static/js/main.0a71f326.chunk.js"
+  ]
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ruqsana-begum-react.iml" filepath="$PROJECT_DIR$/.idea/ruqsana-begum-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ruqsana-begum-react-dist.iml" filepath="$PROJECT_DIR$/.idea/ruqsana-begum-react-dist.iml" />
     </modules>
   </component>
 </project>
